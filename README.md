@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Khofifrcc
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning C#
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Khofifrcc/Khofifrcc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
