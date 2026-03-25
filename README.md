@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Khofifrcc
-- 👀 I’m interested in Web Developing
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=AI+Enthusiast;Unity+Developer;UI/UX+Designer"/>
 <!---
